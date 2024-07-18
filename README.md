@@ -4,6 +4,19 @@ This project provides a detailed analysis of credit card transactions. It aims t
 
 ## Dataset
 The dataused used in the project consists of 2 csv files containing credit card and customer details. These files are attached in the repository.
+Some of the significant columns in these csv's include:
+
+- Customer :
+  - Customer age
+  - Gender
+  - Education Level
+  - Income 
+- Credit Card:
+  - Card Category
+  - Week Number
+  - Total Transaction Amount
+  - Use Chip
+  - Interest Earned
 
 ## Dashboard 
 ![Screenshot (185)](https://github.com/user-attachments/assets/be1b826c-3b14-4de3-9402-2341f439d16d)
