@@ -1,4 +1,4 @@
-![Screenshot (186)](https://github.com/user-attachments/assets/15acf0a6-c884-4754-9210-d87f50a7c851)# Credit Card Transaction Analysis 
+# Credit Card Transaction Analysis 
 ## Project Overview
 This project provides a detailed analysis of credit card transactions. It aims to help stakeholders understand spending patterns, identify trends and gain insights through interactive visualizations.
 
@@ -16,8 +16,10 @@ Some other visualizations include distribution of revenue generated based on var
 The dashboard also includes filters in the form of slicers.
 The filters include Cart type being used, Income Category (Low, Medium, High), Age Category and Gender.
 
+### Filters in action
+
 ![Screenshot (186)](https://github.com/user-attachments/assets/be017d43-afa0-4ecd-9df2-391545bb712e)
 
-This image shows the change in dasboard elements on application of a filter.
+
 
 
